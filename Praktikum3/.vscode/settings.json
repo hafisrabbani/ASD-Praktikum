@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.blade.php": "html",
+        "*.html": "html",
+        "stdio.h": "c"
+    }
+}
